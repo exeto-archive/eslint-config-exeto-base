@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-exeto-base",
+  "version": "1.0.0",
+  "description": "Eslint config based on the config Airbnb",
+  "main": "index.js",
+  "repository": "exeto/eslint-config-exeto-base",
+  "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
+  "license": "MIT",
+  "files": [
+    "rules",
+    "index.js",
+    "legacy.js",
+    "node.js"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "exeto",
+    "javascript",
+    "styleguide"
+  ],
+  "peerDependencies": {
+    "eslint": "^3.2.0",
+    "eslint-plugin-import": "^1.12.0"
+  }
+}
