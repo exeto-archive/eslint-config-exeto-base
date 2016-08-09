@@ -1,4 +1,4 @@
-# eslint-config-exeto-base [![Dependency Status][depstat-image]][depstat-url] [![Peer Dependency Status][peerdepstat-image]][peerdepstat-url]
+# eslint-config-exeto-base [![Peer Dependency Status][peerdepstat-image]][peerdepstat-url]
 
 > This repository is a fork of [eslint-config-airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)
 
@@ -37,7 +37,5 @@ Add one of the following in your `.eslintrc`:
 
 [MIT](LICENSE.md) © [Airbnb](https://github.com/airbnb) and [Timofey Dergachev](https://exeto.me/en)
 
-[depstat-url]: https://david-dm.org/exeto/eslint-config-exeto-base#info=Dependencies
-[depstat-image]: https://img.shields.io/david/exeto/eslint-config-exeto-base.svg?style=flat-square
 [peerdepstat-url]: https://david-dm.org/exeto/eslint-config-exeto-base?type=peer
 [peerdepstat-image]: https://david-dm.org/exeto/eslint-config-exeto-base/peer-status.svg?style=flat-square
