@@ -1,5 +1,9 @@
-2.0.0-beta.1 / 2016-10-12
+2.0.0 / 2016-10-12
 ==================
+- Disable `no-param-reassign`
+
+2.0.0-beta.1 / 2016-10-12
+=========================
 - Enable `class-methods-use-this`
 - Enable `no-restricted-properties`
 - Enable `no-template-curly-in-string`

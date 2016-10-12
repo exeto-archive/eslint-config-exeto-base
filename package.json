@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-exeto-base",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0",
   "description": "Eslint config based on the config Airbnb",
   "main": "index.js",
   "repository": "exeto/eslint-config-exeto-base",
