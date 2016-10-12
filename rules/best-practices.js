@@ -163,11 +163,6 @@ module.exports = {
     // var foo = 'Copyright \251';
     'no-octal-escape': 'error',
 
-    // disallow reassignment of function parameters
-    // disallow parameter object manipulation
-    // rule: http://eslint.org/docs/rules/no-param-reassign.html
-    'no-param-reassign': ['error', { props: true }],
-
     // disallow usage of __proto__ property
     'no-proto': 'error',
 
