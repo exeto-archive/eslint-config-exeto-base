@@ -4,18 +4,19 @@ module.exports = {
     './rules/errors',
     './rules/node',
     './rules/style',
-    './rules/variables'
+    './rules/variables',
   ].map(require.resolve),
   env: {
     browser: true,
     node: true,
     amd: false,
     mocha: false,
-    jasmine: false
+    jasmine: false,
   },
   ecmaFeatures: {},
   globals: {},
   rules: {
-    'comma-dangle': [2, 'never']
-  }
+    'comma-dangle': ['error', 'never'],
+    'prefer-numeric-literals': 'off',
+  },
 };
