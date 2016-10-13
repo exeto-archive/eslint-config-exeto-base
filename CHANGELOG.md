@@ -1,3 +1,8 @@
+2.0.1 / 2016-10-13
+==================
+- Disable `global-require`
+- Disable `import/no-unresolved`
+
 2.0.0 / 2016-10-12
 ==================
 - Disable `no-param-reassign`
