@@ -1,3 +1,7 @@
+2.1.0 / 2016-10-17
+==================
+- Disable `consistent-return`
+
 2.0.1 / 2016-10-13
 ==================
 - Disable `global-require`
