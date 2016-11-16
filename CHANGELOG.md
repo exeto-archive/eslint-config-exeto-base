@@ -1,3 +1,8 @@
+3.0.0 / 2016-11-16
+==================
+- Change `quote-props`
+- Change `no-shadow`
+
 2.1.0 / 2016-10-17
 ==================
 - Disable `consistent-return`
