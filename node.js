@@ -16,6 +16,7 @@ module.exports = {
     },
   },
   rules: {
-    strict: ['error', 'global'],
+    'strict': ['error', 'global'],
+    'no-console': 'off',
   },
 };
