@@ -1,3 +1,8 @@
+3.0.1 / 2017-02-12
+==================
+- Disable `no-console` rule in node config
+- Disable `no-underscore-dangle`
+
 3.0.0 / 2016-11-16
 ==================
 - Change `quote-props`
