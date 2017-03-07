@@ -1,3 +1,7 @@
+3.0.2 / 2017-03-07
+==================
+- Disable `arrow-body-style`
+
 3.0.1 / 2017-02-12
 ==================
 - Disable `no-console` rule in node config
