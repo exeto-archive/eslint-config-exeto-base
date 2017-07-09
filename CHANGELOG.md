@@ -1,3 +1,7 @@
+3.0.3 / 2017-07-09
+==================
+- Add "no maintained" notice
+
 3.0.2 / 2017-03-07
 ==================
 - Disable `arrow-body-style`
